@@ -1,0 +1,13 @@
+html {
+    direction: rtl !important;
+  }
+  body {
+    font-family: 'CustomFont', Arial, sans-serif !important;
+    background-color: #f1f6f9 !important;
+  }
+  
+  @font-face {
+    font-family: 'CustomFont';
+    src: url(@/assets/fonts/Vazir.ttf);
+   
+  }
